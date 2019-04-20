@@ -1,0 +1,5 @@
+id,country_id,city,zip_code,number,street
+1,1,Paris,75011,66,Boulevard Voltaire
+2,3,Aranjuez,28300,51,Ctra. de Fuentenueva
+3,2,San Savino,52048,19,Viale Maria Cristina di Savoia
+4,1,Paris,75010,82,Boulevard de Magenta

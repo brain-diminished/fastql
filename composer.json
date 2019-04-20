@@ -1,0 +1,31 @@
+{
+    "name": "dsavina/fastql",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dorian Savina",
+            "email": "dorian.savina@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FastQL\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FastQL\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "greenlion/php-sql-parser": "^4.1",
+        "mouf/schema-analyzer": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/dbunit": "^4.0",
+        "phpunit/phpunit": "^7.5",
+        "thecodingmachine/dbal-fluid-schema-builder": "^1.4"
+    },
+    "minimum-stability": "dev"
+}

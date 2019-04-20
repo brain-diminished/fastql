@@ -1,0 +1,10 @@
+id,parent_1_id,parent_2_id,first_name,last_name
+1,4,5,Malcolm,Wilkerson
+2,4,5,Dewey,Wilkerson
+3,4,5,Reese,Wilkerson
+4,6,7,Hal,Wilkerson
+5,9,8,Lois,Wilkerson
+6,,,Walter,Wilkerson
+7,,,Sharon,Wilkerson
+8,,,Ida,Welker
+9,,,Victor,Welker
